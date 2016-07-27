@@ -1,0 +1,89 @@
+html{
+    height: 100%;
+    width: 100%;
+    background-color: #8f9385;
+    background-image: url("../img/Mountains.JPG"); 
+    background-size: cover;
+    position: absolute;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 500%;
+    color: white;
+    text-align: center;
+    margin-top: 8%;
+    margin-bottom: 0%;
+    position: relative;
+}
+
+h2{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 148%;
+}
+
+h3{
+
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+    font-size: 98%;
+    line-height: 125%;
+    color: white;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+.subtitle{
+    text-align: center;
+}
+
+.projectimage{
+    height: 200px;
+    width: 200px;
+    background-color: #ffffff;
+    border: double black 2px;
+    margin: 10px;
+}
+
+.projects{
+    margin: auto;
+}
+
+
+ul{
+    list-style-type: none;
+    font-family: 'Lato', sans-serif;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    line-height: 125%;
+    text-decoration-line: 0px;
+}
+
+li{
+    float: left;
+    padding-right: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: bolder;
+}
+
+a:active{
+    font-weight: bolder;
+}
+
+.current{
+    font-weight: bolder;
+    text-decoration-line: 3px;
+}
