@@ -68,6 +68,10 @@ span.text-content {
   width: 150px;
 }
 
+.hovertext{
+    cursor: grab;
+}
+
 span.text-content span {
   display: table-cell;
   text-align: center;
