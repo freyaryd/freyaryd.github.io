@@ -46,9 +46,9 @@ p{
     height: 200px;
     width: 200px;
     background-color: #ffffff;
-    border: solid black 2px;
+    border: solid #595959 1px;
     margin: 10px;
-    border-radius: 50px;
+    border-radius: 60px;
 }
 
 .projects{
