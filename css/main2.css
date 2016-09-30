@@ -47,7 +47,7 @@ p{
 .projectimage{
     height: 200px;
     width: 200px;
-    background-color: black;
+    background-color: white;
     border: solid #595959 1px;
     margin: 10px;
     border-radius: 50px;
@@ -60,7 +60,7 @@ p{
 
 span.text-content {
   background: rgba(0,0,0,0.5);
-  color: white;
+  color: black;
   cursor: pointer;
   display: table;
   height: 150px;
