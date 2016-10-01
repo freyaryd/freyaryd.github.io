@@ -41,6 +41,8 @@ p{
 }
 
 .top{
+    background-image: url("../img/Mountains.JPG"); 
+    background-size: cover;
     background-color: blue;
     top: 100%;
     height: 100%;
@@ -91,7 +93,6 @@ span.text-content span {
 ul{
     list-style-type: none;
     font-family: 'Lato', sans-serif;
-    color:red;
     position: fixed;
     top: 0%;
     left: 0%;
