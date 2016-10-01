@@ -59,7 +59,7 @@ p{
 }
 
 .content{
-    position:absolute;
+    position:relative;
     margin: 100vh 0vh 0vh 0vh;
 }
 .subtitle{
