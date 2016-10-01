@@ -41,7 +41,8 @@ p{
 }
 
 .top{
-    background-color: blue;
+    background-color: relative;
+    top: 100%;
     height: 100%;
     width: 100%;
     position: static;
