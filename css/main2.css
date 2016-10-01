@@ -58,6 +58,9 @@ p{
     position: relative;*/
 }
 
+.content{
+    position:absolute;
+}
 .subtitle{
     text-align: center;
 }
