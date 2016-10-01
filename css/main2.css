@@ -91,6 +91,7 @@ span.text-content span {
 ul{
     list-style-type: none;
     font-family: 'Lato', sans-serif;
+    color:red;
     position: fixed;
     top: 0%;
     left: 0%;
@@ -98,7 +99,6 @@ ul{
     height: 50%;
     line-height: 125%;
     text-decoration-line: 0px;
-    background-color: red;
 }
 
 li{
