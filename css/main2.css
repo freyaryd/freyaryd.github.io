@@ -40,6 +40,13 @@ p{
     margin: auto;
 }
 
+.start{
+    background-color: blue;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
 .subtitle{
     text-align: center;
 }
