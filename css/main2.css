@@ -60,6 +60,7 @@ p{
 
 .content{
     position:absolute;
+    margin: 100vh 0vh 0vh 0vh;
 }
 .subtitle{
     text-align: center;
