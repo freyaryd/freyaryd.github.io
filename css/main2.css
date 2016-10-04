@@ -14,8 +14,8 @@ body{
 }
 h1{
     font-family: 'Raleway', sans-serif;
-    font-size: 500%;
-    color: black;
+    font-size: 800%;
+    color: white;
     text-align: center;
     margin-top: 8%;
     margin-bottom: 0%;
@@ -24,7 +24,7 @@ h1{
 
 h2{
     margin: 0px;
-    color: black;
+    color: white;
     font-family: 'Raleway', sans-serif;
     font-size: 148%;
     text-align: center;
@@ -59,7 +59,7 @@ p{
 }
 
 .downarrow{
-    position: absolute;
+    position: static;
     left: 50%;
     top: 80%;
 }
