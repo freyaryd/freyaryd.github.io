@@ -60,7 +60,7 @@ p{
 
 .downarrow{
     position: relative;
-    left: 50%;
+    left 0vw;
     top: 80vh;
 }
 
