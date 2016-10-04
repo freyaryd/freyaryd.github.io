@@ -47,8 +47,8 @@ p{
 .top{
     margin: 0px;
     position: absolute;
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
     background-image: url("../img/Mountains.JPG"); 
     /*background-size: cover;
     background-color: blue;
