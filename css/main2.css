@@ -109,6 +109,7 @@ span.text-content span {
 }
 
 ul{
+    z-index:1;
     margin: 0px;
     list-style: none;
     font-family: 'Lato', sans-serif;
@@ -123,7 +124,6 @@ ul{
 
 li{
     position: relative;
-    z-index:1;
     float: left;
     padding-right: 10px;
 }
