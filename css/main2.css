@@ -55,8 +55,8 @@ td{
 
 .downarrow{
     position: absolute;
-    left 0vw;
-    top: 80vh;
+    left: 50vw;
+    top: 0vh;
 }
 
 .content{
