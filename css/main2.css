@@ -35,8 +35,8 @@ p{
 
 table{
     position: static;
-    width: 100vh;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     background-color: blue;
     border: 2px solid black;
 }
