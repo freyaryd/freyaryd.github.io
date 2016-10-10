@@ -34,6 +34,16 @@ p{
     margin: auto;
 }
 
+table{
+    width: 80vh;
+    height: 100vh;
+    color: blue;
+}
+
+th{
+    height: 25vh;
+}
+
 .top{
     margin: 0px;
     position: absolute;
@@ -52,8 +62,8 @@ p{
     position:absolute;
     margin: 100vh 0vh 0vh 0vh;
 }
-.subtitle{
-    text-align: center;
+
+.imageholder{
 }
 
 .projectimage{
