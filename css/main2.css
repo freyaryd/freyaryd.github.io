@@ -68,7 +68,7 @@ p{
     margin: auto;
 }
 
-span.text-content {
+/* span.text-content {
   background: rgba(0,0,0,0.5);
   color: black;
   cursor: pointer;
@@ -85,12 +85,12 @@ span.text-content span {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
-}
+} 
+*/
 
 .menu{
     z-index:1;
     margin: 0px;
-    list-style: none;
     font-family: 'Lato', sans-serif;
     position: fixed;
     top: 20px;
@@ -101,6 +101,7 @@ span.text-content span {
 }
 
 ul{
+    list-style: none;
     text-decoration-line: 0px;
 }
 
