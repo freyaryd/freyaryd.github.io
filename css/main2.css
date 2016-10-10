@@ -36,7 +36,7 @@ p{
 
 table{
     position: static;
-    width: 80vh;
+    width: 100vh;
     height: 100vh;
     background-color: blue;
 }
@@ -65,6 +65,7 @@ th{
 }
 
 .imageholder{
+    width: 50vw;
 }
 
 .projectimage{
