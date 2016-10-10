@@ -37,7 +37,7 @@ p{
 table{
     width: 80vh;
     height: 100vh;
-    color: blue;
+    background-color: blue;
 }
 
 th{
