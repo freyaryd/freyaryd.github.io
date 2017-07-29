@@ -7,7 +7,7 @@ body{
     margin: 0px;
 }
 h1{
-    font-family: 'Codystar', cursive;
+    font-family: 'Roboto condensed', sans-serif;
     font-size: 800%;
     color: white;
     text-align: center;
@@ -19,13 +19,13 @@ h1{
 h2{
     margin-left: 20%;
     color: white;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto condensed', sans-serif;
     font-size: 148%;
     text-align: left;
 }
 
 p{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Crimson Text', serif;
     font-size: 98%;
     line-height: 125%;
     color: black;
@@ -106,7 +106,7 @@ span.text-content span {
 .menu{
     z-index:1;
     margin: 0px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Crimson Text', serif;
     position: fixed;
     top: 20px;
     left: 0%;
