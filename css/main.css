@@ -13,7 +13,7 @@ body {
 
 #container {
     display: grid;
-    grid-template-columns: 33vw 33vw 1fr;
+    grid-template-columns: 33vw 33vw 33vw;
     grid-template-rows: auto 20% 20% 20% 20%;
 }
 
@@ -23,7 +23,7 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 12vw;
+    font-size: 11vw;
     color: var(--highlight1);
     font-family: 'Josefin Slab', serif;
     text-shadow: 4px 4px 0px var(--main-color);
@@ -31,11 +31,11 @@ h1 {
 
 #about {
     grid-column: span 1;
-    min-width: 20em;
+    min-width: 15em;
 }
 
 .desc {
-    padding: 4em 6em 0 6em;
+    padding: 5% 10% 0 5%;
     line-height: 180%;
     font-family: 'Open Sans', sans-serif;
 }
