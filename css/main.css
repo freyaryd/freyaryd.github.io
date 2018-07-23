@@ -31,7 +31,7 @@ h1 {
 
 #about {
     grid-column: span 1;
-    min-width: 30em;
+    min-width: 20em;
 }
 
 .desc {
@@ -58,17 +58,27 @@ i {
 
 /* "mobile" version i guess */
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
 
     #container {
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: auto 20% 20% 20% 20%;
-        /**background-color: purple;**/
+        /*background-color: purple;*/
     }
 
     #title {
         grid-column: span 1;
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 16vw;
+        margin: 1em 0 0 0;
+    }
+
+    .desc {
+        padding: 2em 3em 0 3em;
     }
 }
 
